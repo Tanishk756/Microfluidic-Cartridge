@@ -20,4 +20,5 @@ Ease of Use: The design ensures user-friendly loading and dispensing. The chambe
 Manufacturability: The dimensions and design elements are compatible with common 3D printing and micromachining techniques, ensuring that the cartridge can be manufactured efficiently.
 Innovative Features: Unique aspects of the design include labeled annotations on the 3D model for key components, enhancing understanding and usability.
 
-
+Full Project can be accessed here - 
+https://drive.google.com/file/d/1tV9GiSqHkmhC1g_yXoDp_ipNtPUAY6TH/view?usp=drive_link
